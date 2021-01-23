@@ -6,3 +6,4 @@ Course url: https://www.appbrewery.co/courses
 ## Section 6 - Introduction to Bootstrap 4
 
 - Navbar
+- Grid layout
