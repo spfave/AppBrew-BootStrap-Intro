@@ -19,8 +19,7 @@ h2 {
 
 /* Section Title */
 .container-fluid {
-  overflow: hidden;
-  padding: 3% 15%;
+  padding: 3% 15% 7%;
 }
 
 /* Nav Bar */
@@ -54,25 +53,23 @@ h2 {
 }
 
 /* Title Image */
-.div-title-img {
-  text-align: center;
-}
-
 .app-img-iphone {
-  transform: rotate(20deg);
-  margin: 0 0 -150px 0;
-  padding-top: 50px;
   width: 60%;
+  transform: rotate(20deg);
+  position: absolute;
+  right: 20%;
 }
 
 /* Section Features */
 #features {
-  margin: 7% 15%;
-  text-align: center;
+  background-color: #fff;
+  padding: 7% 15%;
+  position: relative;
 }
 
 .feature-box {
   padding: 5%;
+  text-align: center;
 }
 
 .feature-icon {

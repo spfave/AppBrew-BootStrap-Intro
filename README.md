@@ -14,3 +14,4 @@ Course url: https://www.appbrewery.co/courses
 - Carousel
 - Cards
 - Z-index and Stacking
+- media Query Breakpoints
