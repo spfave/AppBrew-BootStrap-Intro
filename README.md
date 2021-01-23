@@ -8,3 +8,9 @@ Course url: https://www.appbrewery.co/courses
 - Navbar
 - Grid layout
 - Buttons
+
+## Section 7 - Intermediate Bootstrap
+
+- Carousel
+- Cards
+- Z-index and Stacking
